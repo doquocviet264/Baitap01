@@ -49,8 +49,8 @@ public class MainActivity extends AppCompatActivity {
 
         // Set dữ liệu cho giao diện
         imgStudent.setImageResource(R.drawable.sample_profile); // Thêm ảnh mẫu vào drawable
-        tvStudentName.setText("Nguyễn Văn A");
-        tvStudentInfo.setText("MSSV: 12345678\nNgành: Công Nghệ Thông Tin");
+        tvStudentName.setText("Đỗ Quốc Việt");
+        tvStudentInfo.setText("MSSV: 22110456\nNgành: Công Nghệ Thông Tin");
         // Khởi tạo ArrayList chứa các số
         ArrayList<Integer> numbers = new ArrayList<>();
         numbers.add(1);
